@@ -1,0 +1,21 @@
+﻿@{
+    Layout = null;  
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>SignIn</title>
+</head>
+<body>
+    <fieldset>
+       <legend>Sign In</legend>
+        <form>
+            <label>Username</label><input type="text" name="username" required />
+            <label>Password</label><input type="password" name="passowrd" required />
+            <button type="button" onclick="location.href='@Url.Action("Index","Dashboard")'">Log In</button>
+        </form>
+    </fieldset>
+</body>
+</html>

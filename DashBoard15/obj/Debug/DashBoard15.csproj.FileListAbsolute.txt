@@ -1,0 +1,56 @@
+c:\users\ui developer\documents\visual studio 2012\Projects\DashBoard15\DashBoard15\bin\DashBoard15.dll
+c:\users\ui developer\documents\visual studio 2012\Projects\DashBoard15\DashBoard15\bin\DashBoard15.pdb
+c:\users\ui developer\documents\visual studio 2012\Projects\DashBoard15\DashBoard15\bin\Antlr3.Runtime.dll
+c:\users\ui developer\documents\visual studio 2012\Projects\DashBoard15\DashBoard15\bin\EntityFramework.dll
+c:\users\ui developer\documents\visual studio 2012\Projects\DashBoard15\DashBoard15\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ui developer\documents\visual studio 2012\Projects\DashBoard15\DashBoard15\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\ui developer\documents\visual studio 2012\Projects\DashBoard15\DashBoard15\bin\Newtonsoft.Json.dll
+c:\users\ui developer\documents\visual studio 2012\Projects\DashBoard15\DashBoard15\bin\System.Web.Mvc.dll
+c:\users\ui developer\documents\visual studio 2012\Projects\DashBoard15\DashBoard15\bin\System.Web.Optimization.dll
+c:\users\ui developer\documents\visual studio 2012\Projects\DashBoard15\DashBoard15\bin\System.Web.Providers.dll
+c:\users\ui developer\documents\visual studio 2012\Projects\DashBoard15\DashBoard15\bin\System.Web.Razor.dll
+c:\users\ui developer\documents\visual studio 2012\Projects\DashBoard15\DashBoard15\bin\System.Web.WebPages.Deployment.dll
+c:\users\ui developer\documents\visual studio 2012\Projects\DashBoard15\DashBoard15\bin\System.Web.WebPages.dll
+c:\users\ui developer\documents\visual studio 2012\Projects\DashBoard15\DashBoard15\bin\System.Web.WebPages.Razor.dll
+c:\users\ui developer\documents\visual studio 2012\Projects\DashBoard15\DashBoard15\bin\WebGrease.dll
+c:\users\ui developer\documents\visual studio 2012\Projects\DashBoard15\DashBoard15\bin\EntityFramework.xml
+c:\users\ui developer\documents\visual studio 2012\Projects\DashBoard15\DashBoard15\bin\Newtonsoft.Json.xml
+c:\users\ui developer\documents\visual studio 2012\Projects\DashBoard15\DashBoard15\bin\System.Web.Mvc.xml
+c:\users\ui developer\documents\visual studio 2012\Projects\DashBoard15\DashBoard15\bin\System.Web.Razor.xml
+c:\users\ui developer\documents\visual studio 2012\Projects\DashBoard15\DashBoard15\bin\System.Web.WebPages.xml
+c:\users\ui developer\documents\visual studio 2012\Projects\DashBoard15\DashBoard15\bin\System.Web.WebPages.Deployment.xml
+c:\users\ui developer\documents\visual studio 2012\Projects\DashBoard15\DashBoard15\bin\System.Web.WebPages.Razor.xml
+c:\users\ui developer\documents\visual studio 2012\Projects\DashBoard15\DashBoard15\obj\Debug\DashBoard15.csprojResolveAssemblyReference.cache
+c:\users\ui developer\documents\visual studio 2012\Projects\DashBoard15\DashBoard15\obj\Debug\DashBoard15.dll
+c:\users\ui developer\documents\visual studio 2012\Projects\DashBoard15\DashBoard15\obj\Debug\DashBoard15.pdb
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\bin\DashBoard15.dll
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\bin\DashBoard15.pdb
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\bin\Antlr3.Runtime.dll
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\bin\EntityFramework.dll
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\bin\Microsoft.Web.Infrastructure.dll
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\bin\Newtonsoft.Json.dll
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\bin\System.Web.Mvc.dll
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\bin\System.Web.Optimization.dll
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\bin\System.Web.Providers.dll
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\bin\System.Web.Razor.dll
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\bin\System.Web.WebPages.Deployment.dll
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\bin\System.Web.WebPages.dll
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\bin\System.Web.WebPages.Razor.dll
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\bin\WebGrease.dll
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\bin\EntityFramework.xml
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\bin\Newtonsoft.Json.xml
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\bin\System.Web.Mvc.xml
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\bin\System.Web.Razor.xml
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\bin\System.Web.WebPages.xml
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\bin\System.Web.WebPages.Deployment.xml
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\bin\System.Web.WebPages.Razor.xml
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\obj\Debug\DashBoard15.csprojResolveAssemblyReference.cache
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\obj\Debug\DashBoard15.dll
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\obj\Debug\DashBoard15.pdb
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\bin\System.Net.Http.Formatting.dll
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\bin\System.Web.Http.dll
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\bin\System.Web.Http.WebHost.dll
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\bin\System.Net.Http.Formatting.xml
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\bin\System.Web.Http.xml
+D:\Prakash\Works\Projects 2012\Old\DashBoard15\DashBoard15\bin\System.Web.Http.WebHost.xml
